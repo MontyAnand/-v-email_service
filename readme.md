@@ -3,11 +3,11 @@
 `@v/email_service_wrapper` is the wrapper over popular npm module __nodemailer__. The module provides easy to use APIs to configure SMTP gmail server and send mails using javascript event driven architecture without blocking main thread execution. The first version of this module supports only for gmail service i.e., the sender's mail should belongs to @gmail.com. To make the procedure easy and more secure this module takes App Password of gmail account generated after 2 step varification.  
 
 ## Method to generate password
-![](Screenshot(110).png)
+![](./Screenshot(110).png)
 
-![](Screenshot(111).png)
+![](./Screenshot(111).png)
 
-![](Screenshot(112).png)
+![](./Screenshot(112).png)
 ## Installation
 ```bash
 npm install email_service
